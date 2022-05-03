@@ -1,0 +1,55 @@
+.googleimg{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    align-items: center;
+}
+.googleimg img{
+    max-width:351px;
+
+}
+.search{
+    display: flex;
+    flex-direction: column;
+    width:90%;
+    align-items: center;
+    margin:1px auto;
+    background-color: #EEEEEE;
+}
+.searchic{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.linkflex{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+    margin:auto;
+}
+.flex{
+    margin:1px;
+    padding:5px;
+    text-align: center;
+}
+.flex1{
+width:37%;
+background-color: #7EE5DA;
+}
+.flex2{
+    flex-grow: 1;
+    background-color: #70CCC2;
+    font-size:small;
+}
+.flex3{
+    flex-grow: 2;
+    background-color: #62B3AA;
+    font-size:small;
+}
+.copyright{
+    width:90%;
+    text-align:center;
+    font-size: small;
+    margin:10px auto;
+}
